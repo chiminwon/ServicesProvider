@@ -97,7 +97,7 @@
                 <version>2.2.7.RELEASE</version>
                 <configuration>
                     <fork>true</fork>
-                    <mainClass>com.ming.ServiceProviderApp</mainClass>
+                    <mainClass>com.ming.ServicesProvider</mainClass>
                 </configuration>
                 <!--<executions>
                     <execution>
